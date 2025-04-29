@@ -1,6 +1,6 @@
 {
     inputs = {
-        ihp.url = "github:digitallyinduced/ihp/012c7a3c03437109426c64b7c98189b6d639ca44";
+        ihp.url = "github:digitallyinduced/ihp/v1.3";
         nixpkgs.follows = "ihp/nixpkgs";
         flake-parts.follows = "ihp/flake-parts";
         devenv.follows = "ihp/devenv";
